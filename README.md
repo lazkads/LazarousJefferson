@@ -1,5 +1,5 @@
 # LazarousJefferson
-<h1>Hi, I'm Lazarous, an <a href="https://https://www.linkedin.com/in/lazarous-jefferson-b22688339">IT Professional</a>☺</h1>
+<h1>Hi, I'm Lazarous, an <a href="https://https://www.linkedin.com/in/lazarous-jefferson">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
